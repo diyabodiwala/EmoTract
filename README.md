@@ -17,11 +17,6 @@ License
 
 This project is licensed under the Apache License 2.0.
 
-Contributing
-------------
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
 Acknowledgments
 --------------
 
